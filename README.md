@@ -1,4 +1,4 @@
-# HamasteCMS-theme-night_city_light-HTML4
+# HamsterCMS-theme-night_city_light-HTML4
 
 https://github.com/turboblack/HamsterCMS "night_city_light" HTML4 theme for HamsterCMS
 
