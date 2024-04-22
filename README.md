@@ -9,3 +9,5 @@ this is what the template looks like
 
 to change footer - edit **footer.txt** in the **includes** folder
 to change slogan - edit **slogan.txt** in the **includes** folder
+
+HamsterCMS is the world's smallest and very simple multi-template flatfile content management system.
