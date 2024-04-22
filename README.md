@@ -8,6 +8,7 @@ this is what the template looks like
 ![this is what theme looks like](http://old.net.eu.org/night_city_light.jpg)
 
 to change footer - edit **footer.txt** in the **includes** folder
+
 to change slogan - edit **slogan.txt** in the **includes** folder
 
 HamsterCMS is the world's smallest and very simple multi-template flatfile content management system.
