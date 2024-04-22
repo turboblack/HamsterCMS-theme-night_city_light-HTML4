@@ -1,5 +1,7 @@
 # HamasteCMS-theme-night_city_light-HTML4
 
+https://github.com/turboblack/HamsterCMS "night_city_light" HTML4 theme for HamsterCMS
+
 To install the template, unpack the folders from the archive to your hosting as they are in the archive.
 Inside there is also a text file that is responsible for the text under the header, edit it at your discretion
 
