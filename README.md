@@ -14,3 +14,16 @@ to change footer - edit **footer.txt** in the **includes** folder
 to change slogan - edit **slogan.txt** in the **includes** folder
 
 HamsterCMS is the world's smallest and very simple multi-template flatfile content management system.
+
+
+I invite you to visit the hosting that runs on this CMS
+
+http://w10.host
+
+works with both old and new technologies, and backward compatible
+
+Enjoy your use.
+
+**to support the project - PAYPAL: turboblack@ukr.net**
+
+thank you for your attention
